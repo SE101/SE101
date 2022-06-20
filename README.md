@@ -16,6 +16,11 @@ Worked on projects in ML, AI, RL, IR, NLP, R-prog data analysis
 ### 🌱 I’m currently learning ...
 - Cloud Computing with AWS
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se101)](https://github.com/se101/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se101)](https://github.com/se101/github-readme-stats)
+
 <!--
 **se101/se101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

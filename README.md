@@ -9,8 +9,8 @@ With a background in data science and having worked on projects in ML, AI, RL, I
 </p>
 
 ### 🔭 I’m currently working on ...
+- GCN ML Social Media Analysis
 - Deploying ML Sign Languge Detector
-- Improving Boolean Information Retrieval
 
 
 ### 🌱 I’m currently learning ...

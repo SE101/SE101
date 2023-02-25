@@ -14,7 +14,7 @@ With a background in data science and having worked on projects in ML, AI, RL, I
 
 
 ### 🌱 I’m currently learning ...
-- Cloud Computing with AWS
+- Deep Learning Techniques 
 
 ### 💼 Technical Skills ...
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=61DAFB)
